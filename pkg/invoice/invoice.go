@@ -1,8 +1,8 @@
 package invoice
 
 import (
-	"github.com/dextter1913/composition/pkg/customer"
-	"github.com/dextter1913/composition/pkg/invoiceitem"
+	"github.com/dextter1913/composition/v2/pkg/customer"
+	"github.com/dextter1913/composition/v2/pkg/invoiceitem"
 )
 
 type Invoice struct {
